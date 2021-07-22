@@ -1,4 +1,6 @@
 hi this is Hritik. 
 
-Hi this is the updated one!
-llllll
+Hi this is the updated one.
+Git-init is a command used for creating an empty repository.
+git clone is a Git command line utility which is used to target an existing repository and create a clone,
+or copy of the target repository. 
