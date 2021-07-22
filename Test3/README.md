@@ -1,1 +1,1 @@
-This repo is about bare and non-bare repo.
+This directory is about bare and non-bare repo.
