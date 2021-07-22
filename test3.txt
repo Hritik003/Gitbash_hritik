@@ -1,3 +1,0 @@
-hello there !. Now we are gonna know the difference between a bare repo and a non-bare repo. 
----> BARE REPO is an ordinary repo WITHOUT a workspace( where you can't add, commit and push)
---->NOn-Bare REPO is an ordinary repo as well which includes the workspace with it. 
