@@ -1,0 +1,12 @@
+hello there! Welcome back.
+In this test command, I have learnt how to undo commits.
+We can use git revert/git reset/git clean/git rm for undoing private 
+or public commits.
+
+Once changes have been committed they are generally permanent
+
+Use git checkout to move around and review the commit history
+
+git revert is the best tool for undoing shared public changes
+
+git reset is best used for undoing local private changes
