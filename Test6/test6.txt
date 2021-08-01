@@ -1,1 +1,4 @@
-
+Hello there, welcome back.
+Today I learnt about the --->
+--> Git amend command.
+     It basically changes the commit messege of your recent commit history.
