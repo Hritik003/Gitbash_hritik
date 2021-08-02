@@ -12,3 +12,5 @@ Many people get confused with git rebase and git merge.
 ---> which means the commit history is completly gone.
 
 ---> one can undo git rebase using git reflog
+
+"The difference is that git merge never cleans the commit history"
