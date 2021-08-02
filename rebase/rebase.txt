@@ -1,0 +1,14 @@
+today its about git-rebase.
+Many people get confused with git rebase and git merge.
+
+--->Rebasing is the process of moving or combining a sequence of commits to a new base commit. 
+
+--->Rebasing is most useful and easily visualized in the context of a feature branching workflow.
+
+--->The primary reason for rebasing is to maintain a linear project history
+
+---> The moment rebase your feature branch into main branch, you history of the feature branch gets cleaned.
+
+---> which means the commit history is completly gone.
+
+---> one can undo git rebase using git reflog
