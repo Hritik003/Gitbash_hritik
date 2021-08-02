@@ -14,3 +14,10 @@ Many people get confused with git rebase and git merge.
 ---> one can undo git rebase using git reflog
 
 "The difference is that git merge never cleans the commit history"
+
+>Git -i rebase
+
+To modify older or multiple commits, you can use git rebase to combine a sequence of commits into a new base commit. In standard mode, git rebase allows you to literally rewrite history — automatically applying commits in your current working branch to the passed branch head. Since your new commits will be replacing the old, it's important to not use git rebase on commits that have been pushed public, or it will appear that your project history disappeared.
+
+Hence we tend to use the 'i' keyword which denotes interactive.
+This gives us the oppurtunity to alter individual commits in the process rather than moving all the commits.
