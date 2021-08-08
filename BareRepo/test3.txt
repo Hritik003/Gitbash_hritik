@@ -1,0 +1,5 @@
+We are gonna learn about bare and a non-bare repo.
+A non-bare repo is more like an ordinary repo whereas the bare repo is a repo wihtout the actual workspace
+where one can't add, commit or push.
+
+Resulting in a bare repo with no editable working files. In addition, --mirror will clone all the extended refs of the remote repository, and maintain remote branch tracking configuration.

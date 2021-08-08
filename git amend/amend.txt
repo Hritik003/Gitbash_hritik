@@ -1,0 +1,14 @@
+Hello there, welcome back
+Today I learnt about the :-
+--> Git amend command.
+     It basically changes the commit messege of your recent commit history.
+
+-->There are many ways to rewrite history with git.
+
+-->Use git commit --amend to change your latest log message.
+
+-->Use git commit --amend to make modifications to the most recent commit.
+
+-->Use git rebase to combine commits and modify history of a branch.
+
+-->git rebase -i gives much more fine grained control over history modifications than a standard git rebase.

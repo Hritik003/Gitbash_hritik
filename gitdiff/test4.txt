@@ -1,0 +1,13 @@
+Hello there! this test consists all about the "Git diff command.
+So git diff ---> is basically a comand that gives the difference between the staging area and the working area.
+Supposedly we have a file named 'example.txt' and we have added it using "git add ." command.
+All good!! perfect!!
+
+
+But the moment I make some petty changes and commit it without adding it again "git add .", 
+it will pop up an error.
+
+At this point, it is known as the WORKING AREA and previous one was the STAGING AREA.
+The difference btwn those two working areas is given by the command "Git diff".
+
+:)
