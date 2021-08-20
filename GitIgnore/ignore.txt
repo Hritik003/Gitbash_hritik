@@ -1,0 +1,6 @@
+Hello there ! we would be learning today about git ignore today.
+As the name says "ignore" which stands as unnoticeable to the commit .
+
+which also means Git has explicitly told to ignore that file.
+
+Ignored files are tracked in a special file named .gitignore that is checked in at the root of your repository. There is no explicit git ignore command: instead the .gitignore file must be edited and committed by hand when you have new files that you wish to ignore. .gitignore files contain patterns that are matched against file names in your repository to determine whether or not they should be ignored.
