@@ -3,7 +3,7 @@ Today I learnt about the :-
 --> Git amend command.
      It basically changes the commit messege of your recent commit history.
 
--->There are many ways to rewrite history with git.
+-->There are many ways to change or rewrite history with git.
 
 -->Use git commit --amend to change your latest log message.
 
